@@ -1,0 +1,4 @@
+/*Remove ScrollBar */
+html, body {
+    overflow: hidden;
+}
